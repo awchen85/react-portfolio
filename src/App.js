@@ -1,21 +1,35 @@
 import About from "./components/About";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
-import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Work from "./components/Work";
 import { useState } from 'react';
 import Resume from "./components/Resume";
+import Footer from "./components/Footer";
 
 function App() {
+  const [currentPage, setCurrentPage] = useState("About");
+
+  const determinePage = () => {
+    if (currentPage === "About") {
+      return <About />;
+    } else if (currentPage === "Work") {
+      return <Work />;
+    } else if (currentPage === "Resume") {
+      return <Resume />;
+    }
+    return <Contact />;
+  };
+
+  const handlePageChange = (page) => setCurrentPage(page);
+
   return (
     <div>
-      <Navbar />
-      <Home />
-      <About />
-      <Resume />
-      <Work />
-      <Contact />
+      <Navbar
+      currentPage={currentPage}
+      handlePageChange={handlePageChange}
+      />
+    {determinePage()}
+    <Footer />
     </div>
   );
 }

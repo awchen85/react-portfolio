@@ -1,22 +1,42 @@
 import React from 'react';
-import { FaGitHub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import {HiOutlineMail} from 'react-icons/hi';
-import {BsFillPersonLinesFull} from 'react-icons/bs';
+import {BsFillPersonLinesFill} from 'react-icons/bs';
 
 
 const Footer = () => {
   return (
     <div  className='fixed bg-[#0a192f]'>
-         {/* Social Icons */}
-         <div>
-            <ul>
-                <l1>
-                    <a href="/">LinkedIn <FaLinkedin size={30} />
-                    </a>
-                </l1>
-            </ul>
+         
+        {/* Social Icons */}
+        <div className='hidden lg:flex fixed flex-row bottom-[00%] left-[20%] justify-center '>
+        <div className='w-[160px] h-[60px] flex justify-between items-center hover:my-[-30px] duration-300 bg-blue-700 px-5'>
+            <a className='flex justify-between items-center w-full text-gray-300' 
+            href='http://www.linkedin.com/awchen85'>
+                Linkedin <FaLinkedin size={30} />
+            </a>
+            </div>
+        <div className='w-[160px] h-[60px] flex justify-between items-center  hover:my-[-30px] duration-300 bg-black px-5'>
+            <a className='flex justify-between items-center w-full text-gray-300' 
+            href='/'>
+                Github <FaGithub size={30} />
+            </a>
         </div>
-    </div>
+        <div className='w-[160px] h-[60px] flex justify-between items-center  hover:my-[-30px] duration-300 bg-[#6fc2b0] px-5'>
+            <a className='flex justify-between items-center w-full text-gray-300' 
+            href='/'>
+                Email <HiOutlineMail size={30} />
+            </a>
+        </div>
+        <div className='w-[160px] h-[60px] flex justify-between items-center  hover:my-[-30px] duration-300 bg-[#565f69] px-5'>
+            <a className='flex justify-between items-center w-full text-gray-300' 
+            href='/contact'>
+                Contact <BsFillPersonLinesFill size={30} />
+            </a>
+        </div>
+        </div>
+        </div>
+
   )
 }
 
