@@ -6,22 +6,24 @@ import { useState } from 'react';
 import Resume from "./components/Resume";
 import Footer from "./components/Footer";
 
+
+
 function App() {
   const [currentPage, setCurrentPage] = useState("About");
 
   const determinePage = () => {
+
     if (currentPage === "About") {
-      return <About />;
+      return <About />
     } else if (currentPage === "Work") {
-      return <Work />;
+      return <Work />
     } else if (currentPage === "Resume") {
-      return <Resume />;
+      return <Resume />
     }
     return <Contact />;
   };
 
-  const handlePageChange = (page) => setCurrentPage(page);
-
+  const handlePageChange = (page) => setCurrentPage(page)
   return (
     <div>
       <Navbar
