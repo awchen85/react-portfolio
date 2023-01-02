@@ -39,33 +39,6 @@ function App() {
     <Footer></Footer>
     </main>
   );
-}
-  // const [currentPage, setCurrentPage] = useState("Work");
-
-  // const determinePage = () => {
-
-  //   if (currentPage === "About") {
-  //     return <About />
-  //   } else if (currentPage === "Work") {
-  //     return <Work />
-  //   } else if (currentPage === "Resume") {
-  //     return <Resume />
-  //   }
-  //   return <Contact />;
-  // };
-
-  // const handlePageChange = (page) => setCurrentPage(page)
-  // return (
-  //   <div>
-  //     <Router>
-  //     <Navbar
-  //     currentPage={currentPage}
-  //     handlePageChange={handlePageChange}
-  //     />
-  //   {determinePage()}
-  //   <Footer />
-  //   </Router>
-  //   </div>
-  // );
+};
 
 export default App;
