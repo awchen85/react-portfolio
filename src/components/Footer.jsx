@@ -9,7 +9,7 @@ const Footer = () => {
     <div  className='fixed bg-[#0a192f]'>
          
         {/* Social Icons */}
-        <div className='flex fixed flex-row bottom-[00%] left-[37%] justify-center '>
+        <div className='flex fixed flex-row bottom-[00%] left-[30%] justify-center '>
         <div className='w-[40px] md:w-[80px] lg:w-[160px] h-[60px] flex items-center duration-300 bg-blue-700 px-5'>
             <a className='flex justify-between items-center w-full text-gray-300' 
             href='https://www.linkedin.com/in/alex-w-chen/'>
