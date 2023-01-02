@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portflio/static/css/main.1d20880d.css",
-    "main.js": "/portflio/static/js/main.be033058.js",
-    "static/media/Meal-Maker-Final.png": "/portflio/static/media/Meal-Maker-Final.4210d098dd21c56082cb.png",
-    "static/media/run-buddy.jpg": "/portflio/static/media/run-buddy.e29eeb453195eb41d587.jpg",
-    "static/media/react.png": "/portflio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/portflio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/portflio/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/Logo-wtext.png": "/portflio/static/media/Logo-wtext.818d937e0cec661047e6.png",
-    "static/media/jate.png": "/portflio/static/media/jate.d067d4dd47d43fbc88c4.png",
-    "static/media/html.png": "/portflio/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/css.png": "/portflio/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/logo_transparent.png": "/portflio/static/media/logo_transparent.cc4df7bc361b809ed0c7.png",
-    "static/media/Our-Place.png": "/portflio/static/media/Our-Place.ea94926af6fa73c497e5.png",
-    "static/media/javascript.png": "/portflio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/portflio/index.html",
-    "main.1d20880d.css.map": "/portflio/static/css/main.1d20880d.css.map",
-    "main.be033058.js.map": "/portflio/static/js/main.be033058.js.map"
+    "main.css": "/react-portflio/static/css/main.1d20880d.css",
+    "main.js": "/react-portflio/static/js/main.11fbe751.js",
+    "static/media/Meal-Maker-Final.png": "/react-portflio/static/media/Meal-Maker-Final.4210d098dd21c56082cb.png",
+    "static/media/run-buddy.jpg": "/react-portflio/static/media/run-buddy.e29eeb453195eb41d587.jpg",
+    "static/media/react.png": "/react-portflio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portflio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/react-portflio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/Logo-wtext.png": "/react-portflio/static/media/Logo-wtext.818d937e0cec661047e6.png",
+    "static/media/jate.png": "/react-portflio/static/media/jate.d067d4dd47d43fbc88c4.png",
+    "static/media/html.png": "/react-portflio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/react-portflio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/logo_transparent.png": "/react-portflio/static/media/logo_transparent.cc4df7bc361b809ed0c7.png",
+    "static/media/Our-Place.png": "/react-portflio/static/media/Our-Place.ea94926af6fa73c497e5.png",
+    "static/media/javascript.png": "/react-portflio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portflio/index.html",
+    "main.1d20880d.css.map": "/react-portflio/static/css/main.1d20880d.css.map",
+    "main.11fbe751.js.map": "/react-portflio/static/js/main.11fbe751.js.map"
   },
   "entrypoints": [
     "static/css/main.1d20880d.css",
-    "static/js/main.be033058.js"
+    "static/js/main.11fbe751.js"
   ]
 }
