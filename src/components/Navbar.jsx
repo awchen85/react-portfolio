@@ -22,7 +22,7 @@ const Navbar = ({ currentPage, handlePageChange }) => {
             <img src={Logo} alt="logo" style={{width: '50px'}} />
         </div>
         {/* menu */}
-            <ul className='hidden md:flex'>
+            <ul className='flex'>
                 <li>
                     <a href="about"
                     className={determineIsActive("About, currentPage")}
@@ -43,18 +43,6 @@ const Navbar = ({ currentPage, handlePageChange }) => {
                     onClick={() => handlePageChange("Contact")}
                     >Contact</a></li>
             </ul>
-        {/* Hamburger */}
-        <div onClick={handleClick} className='md:hidden z-10'>
-            {!nav ? <FaBars /> : <FaTimes />}
-        </div>
-        {/* Mobile Menu */}
-        <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-
-                <li className='py-6 text-4xl'>About</li>
-                <li className='py-6 text-4xl'>Work</li>
-                <li className='py-6 text-4xl'>Resume</li>
-                <li className='py-6 text-4xl'>Contact</li>
-        </ul>
     </div>
   )
 }

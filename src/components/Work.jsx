@@ -2,11 +2,13 @@ import React from 'react'
 import Bohde from '../assets/Logo-wtext.png';
 import MealMaker from '../assets/Meal-Maker-Final.png';
 import RunBuddy from '../assets/run-buddy.jpg';
-
+import Jate from '../assets/jate.png'
+import Weather from '../assets/weather.png'
+import OurPlace from '../assets/Our-Place.png';
 
 const Work = () => {
   return (
-<div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
+<div name='work' className='w-full h-screen text-gray-300 bg-[#0a192f]'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div className='pb-8'>
@@ -66,12 +68,12 @@ Run Buddy
                     </div>
                 </div>
         </div>
-        <div  style={{backgroundImage: `url(${MealMaker})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+        <div  style={{backgroundImage: `url(${Jate})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
         {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
             <span className='text-2xl font-bold text-white tracking-wider'>
-MealMaker            </span>
+Just Another Text Editor            </span>
                     <div>
                 <a href='/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
@@ -82,29 +84,28 @@ MealMaker            </span>
                     </div>
             </div>
         </div>
-        <div  style={{backgroundImage: `url(${Bohde})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+        <div  style={{backgroundImage: `url(${Weather})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
         {/* Hover Effects */}
                 <div className='opacity-0 group-hover:opacity-100'>
             <span className='text-2xl font-bold text-white tracking-wider'>
-Bohde Marketplace
-            </span>
+Weather Dashboard            </span>
                     <div>
                 <a href='/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/awchen85/weather'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
                 </div>
         </div>
-        <div  style={{backgroundImage: `url(${MealMaker})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+        <div  style={{backgroundImage: `url(${OurPlace})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                 
         {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
             <span className='text-2xl font-bold text-white tracking-wider'>
-MealMaker            </span>
+Our Place            </span>
                     <div>
                 <a href='/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
