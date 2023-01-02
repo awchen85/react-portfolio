@@ -2,7 +2,6 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
 import Work from "./components/Work";
-import { useState } from 'react';
 import Resume from "./components/Resume";
 import Footer from "./components/Footer";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
