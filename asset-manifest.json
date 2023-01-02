@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.1d20880d.css",
-    "main.js": "/react-portfolio/static/js/main.1087d055.js",
+    "main.js": "/react-portfolio/static/js/main.d4923db8.js",
     "static/media/Meal-Maker-Final.png": "/react-portfolio/static/media/Meal-Maker-Final.4210d098dd21c56082cb.png",
     "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.e29eeb453195eb41d587.jpg",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -16,10 +16,10 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.1d20880d.css.map": "/react-portfolio/static/css/main.1d20880d.css.map",
-    "main.1087d055.js.map": "/react-portfolio/static/js/main.1087d055.js.map"
+    "main.d4923db8.js.map": "/react-portfolio/static/js/main.d4923db8.js.map"
   },
   "entrypoints": [
     "static/css/main.1d20880d.css",
-    "static/js/main.1087d055.js"
+    "static/js/main.d4923db8.js"
   ]
 }
