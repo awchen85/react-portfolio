@@ -29,7 +29,7 @@ Bohde Marketplace
                 <a href='/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/MadelineRamos/Bohde-Marketplace'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
@@ -42,10 +42,10 @@ Bohde Marketplace
             <span className='text-2xl font-bold text-white tracking-wider'>
 MealMaker            </span>
                     <div>
-                <a href='/'>
+                <a href='https://pmacdonald07.github.io/Meal-Maker/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/pmacdonald07/Meal-Maker'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
@@ -59,10 +59,10 @@ MealMaker            </span>
 Run Buddy
             </span>
                     <div>
-                <a href='/'>
+                <a href='https://awchen85.github.io/run-buddy/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/awchen85/run-buddy'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
@@ -75,10 +75,10 @@ Run Buddy
             <span className='text-2xl font-bold text-white tracking-wider'>
 Just Another Text Editor            </span>
                     <div>
-                <a href='/'>
+                <a href='https://pacific-crag-75182.herokuapp.com/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/awchen85/text-editor'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
@@ -91,7 +91,7 @@ Just Another Text Editor            </span>
             <span className='text-2xl font-bold text-white tracking-wider'>
 Weather Dashboard            </span>
                     <div>
-                <a href='/'>
+                <a href='https://awchen85.github.io/weather/'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                 </a>
                 <a href='https://github.com/awchen85/weather'>
@@ -108,9 +108,9 @@ Weather Dashboard            </span>
 Our Place            </span>
                     <div>
                 <a href='/'>
-                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo (WIP)</button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/awchen85/project-3'>
                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
                     </div>
