@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.1d20880d.css",
-    "main.js": "/react-portfolio/static/js/main.e7144f9c.js",
+    "main.css": "/react-portfolio/static/css/main.db10537b.css",
+    "main.js": "/react-portfolio/static/js/main.ea7aa4a1.js",
     "static/media/Meal-Maker-Final.png": "/react-portfolio/static/media/Meal-Maker-Final.4210d098dd21c56082cb.png",
     "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.e29eeb453195eb41d587.jpg",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -15,11 +15,11 @@
     "static/media/Our-Place.png": "/react-portfolio/static/media/Our-Place.ea94926af6fa73c497e5.png",
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
-    "main.1d20880d.css.map": "/react-portfolio/static/css/main.1d20880d.css.map",
-    "main.e7144f9c.js.map": "/react-portfolio/static/js/main.e7144f9c.js.map"
+    "main.db10537b.css.map": "/react-portfolio/static/css/main.db10537b.css.map",
+    "main.ea7aa4a1.js.map": "/react-portfolio/static/js/main.ea7aa4a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d20880d.css",
-    "static/js/main.e7144f9c.js"
+    "static/css/main.db10537b.css",
+    "static/js/main.ea7aa4a1.js"
   ]
 }
