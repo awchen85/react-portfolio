@@ -18,7 +18,7 @@ const Navbar = ({ currentPage, handlePageChange }) => {
         {/* menu */}
             <ul className='flex'>
                 <li>
-                    <a href="/"
+                    <a href="/react-portfolio"
                     className={determineIsActive("About, currentPage")}
                     onClick={() => handlePageChange("About")}
                     >About</a>
