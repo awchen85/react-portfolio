@@ -42,7 +42,7 @@ function Resume() {
                     <p className='my-4'>React</p>
                 </div>
             </div>
-            <a href='{require(`../assets/Resume.pdf`)}'>
+            <a href={('../assets/Resume.pdf')} download>
             <button className='text-white border-2 hover:bg-purple-600 hover:border-purple-600 px-4 py-3 my-8 mx-auto flex items-center'>Download My Resume</button>
             </a>
         </div>

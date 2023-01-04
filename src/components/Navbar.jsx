@@ -24,15 +24,15 @@ const Navbar = ({ currentPage, handlePageChange }) => {
                     >About</a>
                 </li>
 
-                <li><a href="/work"
+                <li><a href="work"
                     className={determineIsActive("Work, currentPage")}
                     onClick={() => handlePageChange("Work")}
                     >Work</a></li>
-                <li><a href="/resume"
+                <li><a href="resume"
                     className={determineIsActive("Resume, currentPage")}
                     onClick={() => handlePageChange("Resume")}
                     >Resume</a></li>
-                <li><a href="/contact"
+                <li><a href="contact"
                     className={determineIsActive("Contact, currentPage")}
                     onClick={() => handlePageChange("Contact")}
                     >Contact</a></li>
