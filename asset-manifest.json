@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.426a7ae4.css",
-    "main.js": "/react-portfolio/static/js/main.bf8c1fb5.js",
+    "main.js": "/react-portfolio/static/js/main.dbef6d4d.js",
     "static/media/Meal-Maker-Final.png": "/react-portfolio/static/media/Meal-Maker-Final.4210d098dd21c56082cb.png",
     "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.e29eeb453195eb41d587.jpg",
     "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -9,7 +9,6 @@
     "static/media/mongo.png": "/react-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/Logo-wtext.png": "/react-portfolio/static/media/Logo-wtext.818d937e0cec661047e6.png",
     "static/media/jate.png": "/react-portfolio/static/media/jate.d067d4dd47d43fbc88c4.png",
-    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.1cae6aa5d34e1a8cf9a2.pdf",
     "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/logo_transparent.png": "/react-portfolio/static/media/logo_transparent.cc4df7bc361b809ed0c7.png",
@@ -17,10 +16,10 @@
     "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/react-portfolio/index.html",
     "main.426a7ae4.css.map": "/react-portfolio/static/css/main.426a7ae4.css.map",
-    "main.bf8c1fb5.js.map": "/react-portfolio/static/js/main.bf8c1fb5.js.map"
+    "main.dbef6d4d.js.map": "/react-portfolio/static/js/main.dbef6d4d.js.map"
   },
   "entrypoints": [
     "static/css/main.426a7ae4.css",
-    "static/js/main.bf8c1fb5.js"
+    "static/js/main.dbef6d4d.js"
   ]
 }
