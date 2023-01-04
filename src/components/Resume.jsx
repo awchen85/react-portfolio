@@ -5,7 +5,6 @@ import Javascript from '../assets/icons/javascript.png';
 import Mongo from '../assets/icons/mongo.png';
 import Node from '../assets/icons/node.png';
 import ReactImg from '../assets/icons/react.png';
-
 function Resume() {
 
   return (
